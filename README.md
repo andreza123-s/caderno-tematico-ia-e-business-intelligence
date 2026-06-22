@@ -1,2 +1,14 @@
-# caderno-tematico-ia-e-business-intelligence
-Inteligência Artificial aplicada à Análise de Dados e Business Intelligence
+📁 caderno-tematico-ia-e-business-intelligence
+│
+├── README.md
+│
+├── 📁 fontes
+│   ├── microsoft-power-bi.pdf
+│   ├── fundamentos-ia.pdf
+│   └── engenharia-prompts.pdf
+│
+├── 📁 prompts
+│   └── testes-prompts.md
+│
+└── 📁 materiais
+    └── miniguia-estudo.md
