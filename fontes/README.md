@@ -1,31 +1,36 @@
-# Fontes utilizadas no projeto
+# Curadoria de Fontes
 
-Arquivos e referências utilizadas no NotebookLM.
-Fonte 1 — Microsoft Learn: Power BI
+Este projeto utilizou o NotebookLM como ferramenta de aprendizagem ativa para organização, análise e síntese dos materiais selecionados.
 
-Descrição:
-Documentação oficial sobre conceitos de BI, dashboards, modelagem e análise de dados.
+## NotebookLM
+
+Link do caderno temático utilizado:
+
+[https://notebooklm.google.com/notebook/1f8d23a7-6ca9-44e4-bf08-07d4ec42677a]
+
+---
+
+# Fontes de estudo utilizadas
+
+## 1. Microsoft Learn - Power BI
+
+Documentação oficial sobre Business Intelligence, modelagem de dados e dashboards.
 
 Link:
 https://learn.microsoft.com/power-bi/
 
-Fonte 2 — Google Machine Learning
 
-Descrição:
-Materiais introdutórios sobre inteligência artificial e aprendizado de máquina.
+## 2. Google Machine Learning
+
+Materiais introdutórios sobre Inteligência Artificial e Machine Learning.
 
 Link:
 https://developers.google.com/machine-learning
 
-Fonte 3 — Guia de Engenharia de Prompts
 
-Descrição:
-Material para compreender construção de comandos eficientes para modelos de IA.
+## 3. Engenharia de Prompts
+
+Material sobre criação de instruções eficientes para modelos de IA.
 
 Link:
 https://platform.openai.com/docs/guides/prompt-engineering
-
-Fonte 4 — Conceitos de Business Intelligence
-
-Descrição:
-Estudo sobre coleta, tratamento e transformação de dados em informação estratégica.
